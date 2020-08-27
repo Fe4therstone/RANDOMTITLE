@@ -1,3 +1,4 @@
-New stuff post test
-Title: WELCOME TO MY BLOG
-Date: 08-27-2020
+---
+title: "MYTITLE"
+date: 2020-08-27
+---
